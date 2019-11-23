@@ -1,0 +1,21 @@
+{
+    "name": "vidiasoft/devsucodetest",
+    "description": "Proyecto de prueba",
+    "type": "project",
+    "require": {
+        "twitter/bootstrap": "^4.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "José Gutiérrez",
+            "email": "gutiecuador@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+        
+    }
+}
